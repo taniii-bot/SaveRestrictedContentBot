@@ -1,5 +1,5 @@
 #Github.com-Vasusen-code
-
+ffmpeg
 ethon==1.3.6
 cryptg
 tgcrypto
